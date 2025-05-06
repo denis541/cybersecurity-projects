@@ -1,6 +1,9 @@
 # cybersecurity-projects
+
 ****Network Information Gathering Script***
+
 **Description**
+
 This script is designed to provide various network-related functionalities, including obtaining IP addresses from hostnames, pinging IP addresses, performing reverse DNS lookups, checking open ports for services, and retrieving geolocation information for a given IP address. The script is useful for network administrators, penetration testers, or anyone looking to quickly gather information about a target host or IP.
 
 **Features**
